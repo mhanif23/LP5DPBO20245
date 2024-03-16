@@ -20,3 +20,6 @@ Aplikasi ini dibangun menggunakan Java Swing untuk memudahkan pengelolaan data m
 - **Java Swing**: Digunakan untuk membangun antarmuka pengguna grafis (GUI).
 - **Java SE**: Versi bahasa pemrograman Java yang digunakan.
 
+## Janji
+
+Saya Muhamad Hanif Abdillah NIM 2210239 mengerjakan soal Latihan Praktikum 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
